@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "956526813160",
+    "firebase_url": "https://eventmanagement-2e9e2.firebaseio.com",
+    "project_id": "eventmanagement-2e9e2",
+    "storage_bucket": "eventmanagement-2e9e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956526813160:android:81cf78e605cd2810fb4e5d",
+        "android_client_info": {
+          "package_name": "com.example.eventmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956526813160-4tsv3sd7a3vmetl17arbuuuq8p7o2gjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ-qoi8IqwRoJb2RurvhIzHm7eKjI5kyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956526813160-4tsv3sd7a3vmetl17arbuuuq8p7o2gjh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
